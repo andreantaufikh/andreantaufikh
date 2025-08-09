@@ -29,7 +29,7 @@
 
 ## 🚀 Current Projects
 <p align="center">
-- [Jimpitan App](https://github.com/andreantaufikh/JimpitanApp](https://github.com/kampusriset/23g_laravel_ekas_jimpitan) - Aplikasi Laravel untuk sistem iuran warga.
+- [Jimpitan App](https://github.com/kampusriset/23g_laravel_ekas_jimpitan) - Aplikasi Laravel untuk sistem iuran warga.
 </p>
 
 ## 🛠 Tech Stack
